@@ -17,7 +17,7 @@ Example
   min_value: "-13,000.00 USD"
 
 2000-01-01 open Assets:AccountsReceivable:TimeOff PTOHR
-  max_value: "8.0 PTO"
+  max_value: "8.0 PTOHR"
 ```
 
 ## Known errors
